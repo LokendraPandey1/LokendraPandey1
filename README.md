@@ -199,11 +199,6 @@ I enjoy working across the development stack — from designing interfaces and b
   <i>"The best way to predict the future is to build it."</i>
 </p>
 
-
-<p align="center">
-  <i>"The best way to predict the future is to build it."</i>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:4158D0,100:0D1117&height=120&section=footer" />
 </p>
