@@ -176,22 +176,7 @@ I enjoy working across the development stack — from designing interfaces and b
 ## `08 / GITHUB_ANALYTICS`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LokendraPandey1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraPandey1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
-</p>
-
-<p align="center">
   <img width="80%" src="https://streak-stats.demolab.com/?user=LokendraPandey1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</p>
-
----
-
-## `09 / CONTRIBUTION_GRAPH`
-
-<p align="center">
-  <a href="https://github.com/LokendraPandey1">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LokendraPandey1&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-  </a>
 </p>
 
 ---
