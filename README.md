@@ -126,19 +126,19 @@ I enjoy working across the development stack — from designing interfaces and b
   <img src="https://img.shields.io/badge/AWS-Cloud_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-- ☁️ **AWS Knowledge – Cloud Essentials:** Earned an AWS Skill Builder knowledge badge.
-- 📜 **Additional Certifications:** Continuously developing technical skills through professional learning and certifications.
+- **AWS Knowledge – Cloud Essentials:** Earned an AWS Skill Builder knowledge badge.
+- **Additional Certifications:** Continuously developing technical skills through professional learning and certifications.
 
 ---
 
 ## `05 / EXPERIENCE & PROFESSIONAL ENGAGEMENT`
 
-### 👨‍🏫 Python Programming Tutor | Preply
+### Python Programming Tutor | Preply
 
 - Teaching Python programming and helping learners strengthen their programming fundamentals.
 - Working with learners on practical programming concepts, APIs, JSON, YAML and related topics.
 
-### 💻 Software Development & Project Experience
+### Software Development & Project Experience
 
 - Hands-on experience building web applications, machine learning solutions and AI-powered projects.
 - Experience working across frontend development, backend APIs, databases and ML infrastructure.
@@ -148,13 +148,13 @@ I enjoy working across the development stack — from designing interfaces and b
 
 ## `06 / HACKATHONS & PARTICIPATIONS`
 
-### 🚀 Hackathons & Technical Events
+### Hackathons & Technical Events
 
 - Participated in multiple hackathons and collaborative technical development activities.
 - Worked on problem-solving, rapid prototyping and developing practical software solutions.
 - Collaborated with developers to transform ideas into working prototypes.
 
-### 🤝 Team Collaboration
+### Team Collaboration
 
 - Member of **Hackademics**, the team behind HandSpace.
 - Collaborated on developing an interactive educational technology solution.
@@ -164,11 +164,11 @@ I enjoy working across the development stack — from designing interfaces and b
 
 ## `07 / CURRENT LEARNING & DEVELOPMENT`
 
-- 🧠 Deep Learning & Computer Vision
-- 🤖 Generative AI, LLMs & RAG
-- 🌐 Full Stack Development
-- ☁️ Cloud Computing & AWS
-- 🔬 Research-oriented AI applications
+- Deep Learning & Computer Vision
+- Generative AI, LLMs & RAG
+- Full Stack Development
+- Cloud Computing & AWS
+- Research-oriented AI applications
 
 ---
 
@@ -181,7 +181,7 @@ I enjoy working across the development stack — from designing interfaces and b
 
 ---
 
-## `10 / CONNECT_WITH_ME`
+## `09 / CONNECT_WITH_ME`
 
 <p align="center">
   <a href="https://github.com/LokendraPandey1">
