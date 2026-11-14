@@ -67,9 +67,7 @@ I enjoy working across the development stack — from designing interfaces and b
 **AI / Machine Learning & Data Science**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,nump" />
 </p>
 
 **Web Development**
