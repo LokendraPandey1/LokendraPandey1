@@ -196,3 +196,18 @@ I enjoy working across the development stack — from designing interfaces and b
 
 ---
 
+10 / CONNECT_WITH_ME
+
+<p align="center">
+  <a href="https://github.com/LokendraPandey1">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:4158D0,100:0D1117&height=120&section=footer" />
+</p>
