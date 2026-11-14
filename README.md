@@ -120,8 +120,59 @@ I enjoy working across the development stack — from designing interfaces and b
 | **Event Management System** | Exploring event registration, payment integration and recommendation features. | Full Stack Development |
 
 ---
+## `04 / ACHIEVEMENTS & CERTIFICATIONS`
 
-## `04 / GITHUB_ANALYTICS`
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+- ☁️ **AWS Knowledge – Cloud Essentials:** Earned an AWS Skill Builder knowledge badge.
+- 📜 **Additional Certifications:** Continuously developing technical skills through professional learning and certifications.
+
+---
+
+## `05 / EXPERIENCE & PROFESSIONAL ENGAGEMENT`
+
+### 👨‍🏫 Python Programming Tutor | Preply
+
+- Teaching Python programming and helping learners strengthen their programming fundamentals.
+- Working with learners on practical programming concepts, APIs, JSON, YAML and related topics.
+
+### 💻 Software Development & Project Experience
+
+- Hands-on experience building web applications, machine learning solutions and AI-powered projects.
+- Experience working across frontend development, backend APIs, databases and ML infrastructure.
+- Building practical solutions through independent development and collaborative projects.
+
+---
+
+## `06 / HACKATHONS & PARTICIPATIONS`
+
+### 🚀 Hackathons & Technical Events
+
+- Participated in multiple hackathons and collaborative technical development activities.
+- Worked on problem-solving, rapid prototyping and developing practical software solutions.
+- Collaborated with developers to transform ideas into working prototypes.
+
+### 🤝 Team Collaboration
+
+- Member of **Hackademics**, the team behind HandSpace.
+- Collaborated on developing an interactive educational technology solution.
+- Contributed to technical planning, software development and project implementation.
+
+---
+
+## `07 / CURRENT LEARNING & DEVELOPMENT`
+
+- 🧠 Deep Learning & Computer Vision
+- 🤖 Generative AI, LLMs & RAG
+- 🌐 Full Stack Development
+- ☁️ Cloud Computing & AWS
+- 🔬 Research-oriented AI applications
+
+---
+
+## `08 / GITHUB_ANALYTICS`
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LokendraPandey1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
@@ -134,7 +185,7 @@ I enjoy working across the development stack — from designing interfaces and b
 
 ---
 
-## `05 / CONTRIBUTION_GRAPH`
+## `09 / CONTRIBUTION_GRAPH`
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LokendraPandey1&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
@@ -142,7 +193,7 @@ I enjoy working across the development stack — from designing interfaces and b
 
 ---
 
-## `06 / CONNECT_WITH_ME`
+## `10 / CONNECT_WITH_ME`
 
 <p align="center">
   <a href="https://github.com/LokendraPandey1">
