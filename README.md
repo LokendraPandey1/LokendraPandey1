@@ -18,7 +18,7 @@
 
 ---
 
-## `01 / ABOUT_ME`
+## `01. ABOUT ME`
 
 ```python
 class Developer:
@@ -56,7 +56,7 @@ I enjoy working across the development stack — from designing interfaces and b
 
 ---
 
-## `02 / TECH_STACK`
+## `02. TECH STACK`
 
 <div align="center">
 
@@ -97,7 +97,7 @@ I enjoy working across the development stack — from designing interfaces and b
 </div>
 ---
 
-## `03 / FEATURED_PROJECTS`
+## `03. FEATURED PROJECTS`
 
 ### AI / MACHINE LEARNING
 
@@ -125,7 +125,7 @@ I enjoy working across the development stack — from designing interfaces and b
 | **Event Management System** <br>![Experimental](https://img.shields.io/badge/STATUS-EXPERIMENTAL-9C27B0?style=flat-square)| Exploring event registration, payment integration and recommendation features. | Full Stack Development |
 
 ---
-## `04 / ACHIEVEMENTS & CERTIFICATIONS`
+## `04. ACHIEVEMENTS & CERTIFICATIONS`
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -136,7 +136,7 @@ I enjoy working across the development stack — from designing interfaces and b
 
 ---
 
-## `05 / EXPERIENCE & PROFESSIONAL ENGAGEMENT`
+## `05. EXPERIENCE & PROFESSIONAL ENGAGEMENT`
 
 ### Python Programming Tutor | Preply
 
@@ -151,7 +151,7 @@ I enjoy working across the development stack — from designing interfaces and b
 
 ---
 
-## `06 / HACKATHONS & PARTICIPATIONS`
+## `06. HACKATHONS & PARTICIPATIONS`
 
 ### Hackathons & Technical Events
 
@@ -167,7 +167,7 @@ I enjoy working across the development stack — from designing interfaces and b
 
 ---
 
-## `07 / CURRENT LEARNING & DEVELOPMENT`
+## `07. CURRENT LEARNING & DEVELOPMENT`
 
 - Deep Learning & Computer Vision
 - Generative AI, LLMs & RAG
@@ -178,7 +178,7 @@ I enjoy working across the development stack — from designing interfaces and b
 ---
 
 
-## `08 / GITHUB_ANALYTICS`
+## `08. GITHUB ANALYTICS`
 
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com/?user=LokendraPandey1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
@@ -186,7 +186,7 @@ I enjoy working across the development stack — from designing interfaces and b
 
 ---
 
-## `09 / CONNECT_WITH_ME`
+## `09. CONNECT WITH ME`
 
 <p align="center">
   <a href="https://github.com/LokendraPandey1">
