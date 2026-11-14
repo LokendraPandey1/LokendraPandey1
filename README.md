@@ -1,16 +1,142 @@
-## Hi there 👋
+# ⚡ LOKENDRA PANDEY
 
-<!--
-**LokendraPandey1/LokendraPandey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  AI/ML Engineer in Progress · Full Stack Developer · Tech Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+intelligent+systems.;Turning+ideas+into+working+products.;Exploring+AI%2C+ML+%26+Full+Stack.;Code.+Experiment.+Build.+Repeat." alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/LokendraPandey1">
+    <img src="https://img.shields.io/badge/GitHub-LokendraPandey1-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Engineering-0D1117?style=for-the-badge&logo=target&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/Status-Building-0D1117?style=for-the-badge&logo=statuspage&logoColor=00FF9C" />
+</p>
+
+---
+
+## `01 / ABOUT_ME`
+
+```python
+class Developer:
+
+    def __init__(self):
+        self.name = "Lokendra Pandey"
+        self.role = "CSE Student | AI/ML Specialization"
+        self.location = "India 🇮🇳"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Full Stack Development",
+            "Computer Vision",
+            "Problem Solving"
+        ]
+
+    def current_mission(self):
+        return "Building intelligent solutions to real-world problems."
+
+    def philosophy(self):
+        return "Learn. Build. Break. Improve. Repeat."
+
+
+me = Developer()
+```
+
+I'm a Computer Science and Engineering student specializing in AI/ML, interested in building intelligent applications and scalable software systems.
+
+I enjoy working across the development stack — from designing interfaces and building APIs to experimenting with machine learning models.
+
+- 🧠 Exploring Machine Learning, Deep Learning & Computer Vision.
+- ⚙️ Building full-stack applications and AI-powered tools.
+- 🔬 Interested in research, experimentation and practical engineering.
+- 🚀 Always learning something new and turning ideas into projects.
+
+---
+
+## `02 / TECH_STACK`
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" />
+</p>
+
+**AI / Machine Learning & Data Science**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+
+**Web Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,fastapi,tailwind" />
+</p>
+
+**Database & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,redis,docker,aws" />
+</p>
+
+**Tools & Environment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" />
+</p>
+
+---
+
+## `03 / FEATURED_PROJECTS`
+
+| Project | Description | Tech |
+|---|---|---|
+| 🖐️ **HandSpace** | Interactive, NCERT-aligned visual learning platform with 3D models and gesture-based interaction. | React, TypeScript, Three.js, MediaPipe |
+| 🔬 **ResearchAI** | Research-focused platform exploring semantic search, NLP and retrieval-augmented generation. | React, FastAPI, PostgreSQL, pgvector |
+| 🎭 **Facial Emotion Recognition** | Computer vision project for facial emotion classification. | Python, Deep Learning, OpenCV |
+| 📊 **Customer Churn Prediction** | Machine learning model to identify customers at risk of leaving a service. | Python, Pandas, Scikit-learn |
+| 🔗 **URL Shortener** | URL shortening service with backend monitoring and observability. | FastAPI, PostgreSQL, Redis, Prometheus, Grafana |
+
+---
+
+## `04 / GITHUB_ANALYTICS`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LokendraPandey1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraPandey1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=LokendraPandey1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</p>
+
+---
+
+## `05 / CONTRIBUTION_GRAPH`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LokendraPandey1&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+</p>
+
+---
+
+## `06 / CONNECT_WITH_ME`
+
+<p align="center">
+  <a href="https://github.com/LokendraPandey1">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:4158D0,100:0D1117&height=120&section=footer" />
+</p>
