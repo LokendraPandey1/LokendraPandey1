@@ -1,4 +1,4 @@
-# ⚡ LOKENDRA PANDEY
+# LOKENDRA PANDEY
 
 <h3 align="center">
   AI/ML Engineer in Progress · Full Stack Developer · Tech Enthusiast
@@ -49,10 +49,10 @@ I'm a Computer Science and Engineering student specializing in AI/ML, interested
 
 I enjoy working across the development stack — from designing interfaces and building APIs to experimenting with machine learning models.
 
-- 🧠 Exploring Machine Learning, Deep Learning & Computer Vision.
-- ⚙️ Building full-stack applications and AI-powered tools.
-- 🔬 Interested in research, experimentation and practical engineering.
-- 🚀 Always learning something new and turning ideas into projects.
+- Exploring Machine Learning, Deep Learning & Computer Vision.
+- Building full-stack applications and AI-powered tools.
+- Interested in research, experimentation and practical engineering.
+- Always learning something new and turning ideas into projects.
 
 ---
 
@@ -96,11 +96,11 @@ I enjoy working across the development stack — from designing interfaces and b
 
 | Project | Description | Tech |
 |---|---|---|
-| 🖐️ **HandSpace** | Interactive, NCERT-aligned visual learning platform with 3D models and gesture-based interaction. | React, TypeScript, Three.js, MediaPipe |
-| 🔬 **ResearchAI** | Research-focused platform exploring semantic search, NLP and retrieval-augmented generation. | React, FastAPI, PostgreSQL, pgvector |
-| 🎭 **Facial Emotion Recognition** | Computer vision project for facial emotion classification. | Python, Deep Learning, OpenCV |
-| 📊 **Customer Churn Prediction** | Machine learning model to identify customers at risk of leaving a service. | Python, Pandas, Scikit-learn |
-| 🔗 **URL Shortener** | URL shortening service with backend monitoring and observability. | FastAPI, PostgreSQL, Redis, Prometheus, Grafana |
+| **HandSpace** | Interactive, NCERT-aligned visual learning platform with 3D models and gesture-based interaction. | React, TypeScript, Three.js, MediaPipe |
+| **ResearchAI** | Research-focused platform exploring semantic search, NLP and retrieval-augmented generation. | React, FastAPI, PostgreSQL, pgvector |
+| **Facial Emotion Recognition** | Computer vision project for facial emotion classification. | Python, Deep Learning, OpenCV |
+| **Customer Churn Prediction** | Machine learning model to identify customers at risk of leaving a service. | Python, Pandas, Scikit-learn |
+| **URL Shortener** | URL shortening service with backend monitoring and observability. | FastAPI, PostgreSQL, Redis, Prometheus, Grafana |
 
 ---
 
