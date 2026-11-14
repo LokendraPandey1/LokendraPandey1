@@ -95,7 +95,6 @@ I enjoy working across the development stack — from designing interfaces and b
 </p>
 
 </div>
----
 
 ## `03. FEATURED PROJECTS`
 
