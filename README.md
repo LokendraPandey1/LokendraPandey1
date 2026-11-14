@@ -67,7 +67,15 @@ I enjoy working across the development stack — from designing interfaces and b
 **AI / Machine Learning & Data Science**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,nump" />
+  
+**AI / Machine Learning & Data Science**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" />
+</p>
+
 </p>
 
 **Web Development**
