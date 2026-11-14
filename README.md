@@ -98,26 +98,26 @@ I enjoy working across the development stack — from designing interfaces and b
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **Facial Emotion Recognition** ![Completed](https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=flat-square)| Deep learning-based facial emotion classification using computer vision. | Python, TensorFlow, OpenCV |
-| **Customer Churn Prediction** ![Completed](https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=flat-square)| Predictive ML model to identify customers likely to discontinue a service. | Python, Pandas, Scikit-learn |
-| **ResearchAI** ![In Progress](https://img.shields.io/badge/STATUS-IN_PROGRESS-2196F3?style=flat-square)| Intelligent research platform exploring semantic search, NLP and RAG-based knowledge retrieval. | React, FastAPI, PostgreSQL, pgvector |
+| **Facial Emotion Recognition** <br>![Completed](https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=flat-square)| Deep learning-based facial emotion classification using computer vision. | Python, TensorFlow, OpenCV |
+| **Customer Churn Prediction** <br>![Completed](https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=flat-square)| Predictive ML model to identify customers likely to discontinue a service. | Python, Pandas, Scikit-learn |
+| **ResearchAI** <br>![In Progress](https://img.shields.io/badge/STATUS-IN_PROGRESS-2196F3?style=flat-square)| Intelligent research platform exploring semantic search, NLP and RAG-based knowledge retrieval. | React, FastAPI, PostgreSQL, pgvector |
 
 ### WEB DEVELOPMENT & SOFTWARE ENGINEERING
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **HandSpace** ![In Progress](https://img.shields.io/badge/STATUS-IN_PROGRESS-2196F3?style=flat-square)| Interactive educational platform featuring 3D visualizations and gesture-based learning experiences. | React, TypeScript, Three.js, MediaPipe |
-| **URL Shortener with Observability** ![Completed](https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=flat-square)| Backend service for URL shortening with caching, metrics and monitoring. | FastAPI, PostgreSQL, Redis, Prometheus, Grafana |
-| **CompressoX** ![Completed](https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=flat-square)| Web-based compression utility designed for simplifying file compression workflows. | Web Technologies |
-| **FreshBite** ![Completed](https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=flat-square)| Responsive food ordering and e-commerce frontend with cart management and local storage. | HTML, CSS, JavaScript, Tailwind CSS |
+| **HandSpace** <br>![In Progress](https://img.shields.io/badge/STATUS-IN_PROGRESS-2196F3?style=flat-square)| Interactive educational platform featuring 3D visualizations and gesture-based learning experiences. | React, TypeScript, Three.js, MediaPipe |
+| **URL Shortener with Observability** <br>![Completed](https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=flat-square)| Backend service for URL shortening with caching, metrics and monitoring. | FastAPI, PostgreSQL, Redis, Prometheus, Grafana |
+| **CompressoX** <br>![Completed](https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=flat-square)| Web-based compression utility designed for simplifying file compression workflows. | Web Technologies |
+| **FreshBite** <br>![Completed](https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=flat-square)| Responsive food ordering and e-commerce frontend with cart management and local storage. | HTML, CSS, JavaScript, Tailwind CSS |
 
 ### EXPERIMENTAL & SIDE PROJECTS
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **AI-Powered Learning Tools** ![Experimental](https://img.shields.io/badge/STATUS-EXPERIMENTAL-9C27B0?style=flat-square)| Exploring AI-generated visual explanations and interactive educational experiences. | Python, Gemini API |
-| **Japa Counter** ![Experimental](https://img.shields.io/badge/STATUS-EXPERIMENTAL-9C27B0?style=flat-square)| Distraction-free digital chanting counter with progress tracking and session statistics. | HTML, CSS, JavaScript |
-| **Event Management System** ![Experimental](https://img.shields.io/badge/STATUS-EXPERIMENTAL-9C27B0?style=flat-square)| Exploring event registration, payment integration and recommendation features. | Full Stack Development |
+| **AI-Powered Learning Tools** <br>![Experimental](https://img.shields.io/badge/STATUS-EXPERIMENTAL-9C27B0?style=flat-square)| Exploring AI-generated visual explanations and interactive educational experiences. | Python, Gemini API |
+| **Japa Counter** <br>![Experimental](https://img.shields.io/badge/STATUS-EXPERIMENTAL-9C27B0?style=flat-square)| Distraction-free digital chanting counter with progress tracking and session statistics. | HTML, CSS, JavaScript |
+| **Event Management System** <br>![Experimental](https://img.shields.io/badge/STATUS-EXPERIMENTAL-9C27B0?style=flat-square)| Exploring event registration, payment integration and recommendation features. | Full Stack Development |
 
 ---
 ## `04 / ACHIEVEMENTS & CERTIFICATIONS`
