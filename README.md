@@ -94,13 +94,30 @@ I enjoy working across the development stack — from designing interfaces and b
 
 ## `03 / FEATURED_PROJECTS`
 
-| Project | Description | Tech |
+### AI / MACHINE LEARNING
+
+| Project | Description | Tech Stack |
 |---|---|---|
-| **HandSpace** | Interactive, NCERT-aligned visual learning platform with 3D models and gesture-based interaction. | React, TypeScript, Three.js, MediaPipe |
-| **ResearchAI** | Research-focused platform exploring semantic search, NLP and retrieval-augmented generation. | React, FastAPI, PostgreSQL, pgvector |
-| **Facial Emotion Recognition** | Computer vision project for facial emotion classification. | Python, Deep Learning, OpenCV |
-| **Customer Churn Prediction** | Machine learning model to identify customers at risk of leaving a service. | Python, Pandas, Scikit-learn |
-| **URL Shortener** | URL shortening service with backend monitoring and observability. | FastAPI, PostgreSQL, Redis, Prometheus, Grafana |
+| **Facial Emotion Recognition** | Deep learning-based facial emotion classification using computer vision. | Python, TensorFlow, OpenCV |
+| **Customer Churn Prediction** | Predictive ML model to identify customers likely to discontinue a service. | Python, Pandas, Scikit-learn |
+| **ResearchAI** | Intelligent research platform exploring semantic search, NLP and RAG-based knowledge retrieval. | React, FastAPI, PostgreSQL, pgvector |
+
+### WEB DEVELOPMENT & SOFTWARE ENGINEERING
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **HandSpace** | Interactive educational platform featuring 3D visualizations and gesture-based learning experiences. | React, TypeScript, Three.js, MediaPipe |
+| **URL Shortener with Observability** | Backend service for URL shortening with caching, metrics and monitoring. | FastAPI, PostgreSQL, Redis, Prometheus, Grafana |
+| **CompressoX** | Web-based compression utility designed for simplifying file compression workflows. | Web Technologies |
+| **FreshBite** | Responsive food ordering and e-commerce frontend with cart management and local storage. | HTML, CSS, JavaScript, Tailwind CSS |
+
+### EXPERIMENTAL & SIDE PROJECTS
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **AI-Powered Learning Tools** | Exploring AI-generated visual explanations and interactive educational experiences. | Python, Gemini API |
+| **Japa Counter** | Distraction-free digital chanting counter with progress tracking and session statistics. | HTML, CSS, JavaScript |
+| **Event Management System** | Exploring event registration, payment integration and recommendation features. | Full Stack Development |
 
 ---
 
