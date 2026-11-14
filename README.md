@@ -75,19 +75,19 @@ I enjoy working across the development stack — from designing interfaces and b
 **Web Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,fastapi,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,fastapi,tailwind" />
 </p>
 
 **Database & Infrastructure**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,redis,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
 </p>
 
 **Tools & Environment**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
