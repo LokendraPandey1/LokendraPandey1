@@ -188,7 +188,7 @@ I enjoy working across the development stack — from designing interfaces and b
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
   </a>
   <a href="https://www.linkedin.com/in/lokendra-pandey">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
   </a>
   <a href="https://www.instagram.com/l_o_k_e_n_d_r_a____">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F7FF" />
