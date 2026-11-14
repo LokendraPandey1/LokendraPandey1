@@ -65,10 +65,6 @@ I enjoy working across the development stack — from designing interfaces and b
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" />
 </p>
-
-**AI / Machine Learning & Data Science**
-
-<p>
   
 **AI / Machine Learning & Data Science**
 
