@@ -57,7 +57,7 @@ I enjoy working across the development stack — from designing interfaces and b
 ---
 
 ## `02 / TECH_STACK`
-
+<center>
 **Languages**
 
 <p>
@@ -95,7 +95,7 @@ I enjoy working across the development stack — from designing interfaces and b
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
-
+</center>
 ---
 
 ## `03 / FEATURED_PROJECTS`
