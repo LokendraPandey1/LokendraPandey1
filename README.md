@@ -196,7 +196,7 @@ I enjoy working across the development stack — from designing interfaces and b
 
 ---
 
-10 / CONNECT_WITH_ME
+## `10 / CONNECT_WITH_ME`
 
 <p align="center">
   <a href="https://github.com/LokendraPandey1">
